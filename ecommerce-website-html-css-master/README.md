@@ -6,7 +6,7 @@ in this repository you will see an html css template for a cool designed e-comme
 
 -   wants to practice your html css skills
 
-## :heavy_check_mark: contact 
+## :heavy_check_mark: Contact 
 
  [Linkedin](https://www.linkedin.com/in/junayed-bin-karim-47b755270/)
 
