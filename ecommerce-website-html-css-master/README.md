@@ -13,7 +13,6 @@ in this repository you will see an html css template for a cool designed e-comme
 ## Screenshots
 
 ![Screenshot 1](images/photos/Screenshot%201.png)
-&nbsp;&nbsp;![Screenshot 2](images/photos/Screenshot%402.png)
 
 ![Screenshot 3](images/photos/Screenshot%203.png)
 ![Screenshot 5](images/photos/Screenshot%205.png)
