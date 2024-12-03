@@ -16,6 +16,8 @@ in this repository you will see an html css template for a cool designed e-comme
 ![Screenshot 2](images/photos/Screenshot2.png)
 
 ![Screenshot 3](images/photos/Screenshot%203.png)
+![Screenshot 4](images/photos/Screenshot4.png)
+
 ![Screenshot 5](images/photos/Screenshot%205.png)
 ![Screenshot 6](images/photos/Screenshot%206.png)
 ![Screenshot 7](images/photos/Screenshot%207.png)
